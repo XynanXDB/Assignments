@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{462CC51A-FF72-C9DB-C4AF-7467AF6D96BD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_1;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_ANDROID;ENABLE_SUBSTANCE;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_VR;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;UNITY_HAS_GOOGLEVR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\Body.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\BodyScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\ObstacleBreakable.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\ObstacleNarrow.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\ObstacleWater.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\ParticleSystemSpinner.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\PinchZoom.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\Player.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\Rubble.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\ScreenShake.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Andrew\SpiritParticleController.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\CameraScripts\CameraMovementScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\InteractionScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\ActivationConditionScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\ExitDoorPressScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\FadeScreenScript\FadeScreenScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\ImagePositioningScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\InTextDialogueScript\DialogueManagerScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\InTextDialogueScript\DialogueTriggerScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\JackalAnimationController.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\LevelSelectionScript\LevelDetailScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\ObjectHighlightScripts\ObjectHighlightCompositeScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\ObjectHighlightScripts\ObjectHighlightManagerScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\ObjectHighlightScripts\ObjectHighlightPrePass.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\ObjectHighlightScripts\ObjectHighlightScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\PointerScripts\DeactivateSelf.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\PointerScripts\DestinationPointerScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\PointerScripts\PointerSpinnerScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\PressurePanelScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\SaveSystemScript\SaveSystemScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\ScrollControlScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\SwipeScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\TempScript\TempGameManagerScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\TempScript\TempSwipeFunction.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\TempTutorialScript\TutorialScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\TempTutorialScript\TutorialThreeScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\TempTutorialScript\TutorialTwoScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\TutorialOneScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Jowl\WinPointParticleActivatorScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\ManagersScripts\ButtonControlScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\ManagersScripts\CameraStateManager.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\ManagersScripts\InputManagerScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\ManagersScripts\InteractableScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\ManagersScripts\SceneManagerScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\ManagersScripts\SoundManager.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\ManagersScripts\TouchInputManagerScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\NarrowPassageWallScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\PerformanceWindowScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\PlayerStateScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\SceneScripts\OptionsScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\TapCountScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\TouchIndicatorAnimEvent.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\AudioManager.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\Block.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\Calculation.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\CoroutineManager.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\Entity.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\Enums.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\Floor.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\LevelEditor.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\Navigator.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\Obstacle.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\ReadOnlyAttribute.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\Treaxen\Wall.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\TurnTransparentScript.cs" />
+     <Compile Include="Assets\_Spirital\Scripts\WinPointScript.cs" />
+     <None Include="Assets\_Spirital\Shaders\BlurShader.shader" />
+     <None Include="Assets\_Spirital\Resources\Test_Text 1.txt" />
+     <None Include="Assets\_Spirital\Shaders\GlowShader.shader" />
+     <None Include="Assets\_Spirital\Shaders\GlowCompsiteShader.shader" />
+     <None Include="Assets\_Spirital\Resources\Test_Text 2.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.TestRunner">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
