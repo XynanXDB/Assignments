@@ -1,0 +1,79 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\users\xynan lee\desktop\opengl\vector.h(141): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(172): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(173): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(174): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(175): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(208): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(209): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(210): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(211): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(262): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(263): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(265): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(291): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(292): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(293): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(294): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(297): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(298): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(299): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(300): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(323): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(324): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(325): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(326): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(329): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(330): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(331): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(332): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(499): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(507): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(544): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(548): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(549): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(554): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(570): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(574): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(575): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(580): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(592): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(600): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(604): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(610): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(620): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(628): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(632): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(638): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(647): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(648): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(655): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(656): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(660): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(672): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(680): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(692): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(699): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(706): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(733): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(813): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(863): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(884): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(1056): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(1057): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(1065): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(1083): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(1095): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\xynan lee\desktop\opengl\pokemon_model_01.h(1096): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\xynan lee\desktop\opengl\main.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\xynan lee\desktop\opengl\main.cpp(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\xynan lee\desktop\opengl\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\xynan lee\desktop\opengl\main.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\xynan lee\desktop\opengl\main.cpp(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  OpenGL.vcxproj -> C:\Users\Xynan Lee\Desktop\OpenGL\OpenGL\Debug\OpenGL.exe
+  OpenGL.vcxproj -> C:\Users\Xynan Lee\Desktop\OpenGL\OpenGL\Debug\OpenGL.pdb (Partial PDB)

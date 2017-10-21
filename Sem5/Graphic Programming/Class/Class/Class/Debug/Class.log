@@ -1,0 +1,88 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+d:\work\sem5\graphic programming\class\vector.h(141): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(181): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(182): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(183): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(184): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(217): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(218): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(219): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(220): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(271): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(273): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(274): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(300): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(301): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(302): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(303): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(306): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(307): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(308): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(309): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(332): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(333): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(334): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(335): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(338): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(339): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(340): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(341): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(508): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(516): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(553): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(557): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(558): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(563): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(579): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(583): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(584): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(589): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(601): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(609): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(613): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(619): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(629): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(637): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(641): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(647): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(656): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(657): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(664): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(665): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(669): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(681): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(689): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(701): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(708): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(715): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(742): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(822): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(873): warning C4305: '+=': truncation from 'double' to 'float'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(881): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(885): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(889): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(893): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(896): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(900): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(903): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(907): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(910): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(914): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(917): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(921): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(1098): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(1099): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(1107): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\pokemon_model_01.h(1125): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\class\main.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\work\sem5\graphic programming\class\main.cpp(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\work\sem5\graphic programming\class\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\work\sem5\graphic programming\class\main.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\work\sem5\graphic programming\class\main.cpp(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Class.vcxproj -> D:\Work\Sem5\Graphic Programming\Class\Class\Debug\Class.exe
+  Class.vcxproj -> D:\Work\Sem5\Graphic Programming\Class\Class\Debug\Class.pdb (Partial PDB)

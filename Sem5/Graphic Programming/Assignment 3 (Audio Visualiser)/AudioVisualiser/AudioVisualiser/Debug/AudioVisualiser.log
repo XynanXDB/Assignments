@@ -1,0 +1,38 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\vector.h(141): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(152): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(158): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(159): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(163): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(164): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(168): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(169): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(178): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(179): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(132): warning C4101: 'normalizedSpectrum': unreferenced local variable
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(317): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(327): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(328): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(365): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(368): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(369): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(369): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(381): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(382): warning C4305: '+=': truncation from 'double' to 'float'
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(398): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(408): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(409): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(446): warning C4305: '=': truncation from 'double' to 'float'
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(450): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\triangle_demo.h(450): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\main.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\main.cpp(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\main.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\main.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\work\sem5\graphic programming\assignment 3 (audio visualiser)\main.cpp(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AudioVisualiser.vcxproj -> D:\Work\Sem5\Graphic Programming\Assignment 3 (Audio Visualiser)\AudioVisualiser\Debug\AudioVisualiser.exe
+  AudioVisualiser.vcxproj -> D:\Work\Sem5\Graphic Programming\Assignment 3 (Audio Visualiser)\AudioVisualiser\Debug\AudioVisualiser.pdb (Partial PDB)

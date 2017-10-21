@@ -1,0 +1,1 @@
+Pokemon model is in pokemon_model_01.
